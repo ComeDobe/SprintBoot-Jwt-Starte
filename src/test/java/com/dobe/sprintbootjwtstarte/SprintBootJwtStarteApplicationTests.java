@@ -1,0 +1,13 @@
+package com.dobe.sprintbootjwtstarte;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SprintBootJwtStarteApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
